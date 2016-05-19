@@ -1,6 +1,7 @@
 \environment env_dis
+\setupfillinrules[width=fit]
 
-\startstandardmakeup[page=no, align=middle]
+\startstandardmakeup[doublesided=no, page=yes, align=middle]
 \tfc\bf {\em Univerzita Karlova v Praze} \blank[2*big]
 \tfc\bf {\em Filozofická fakulta} \blank
 \tfa Ústav řeckých a latinských studií \blank
@@ -16,5 +17,19 @@
 \vfill
 \currentdate[year] \hfill {\tfb \em Mgr. Petra Janouchová} 
 \vfill
+\stopstandardmakeup
+\startstandardmakeup[doublesided=no, page=yes, align=right]
+\vfill
+{\tf Prohlášení:}
+\crlf
+\crlf
+{\tf Prohlašuji, že jsem disertační práci napsal/a samostatně s využitím pouze uvedených a řádně citovaných pramenů a literatury a že práce nebyla využita v rámci jiného vysokoškolského studia či k získání jiného nebo stejného titulu.}
+\crlf
+\crlf
+\fillinrules[n=1]{\tf V Praze, dne \currentdate~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~} 
+\crlf
+\rightaligned {\tf ~~~~~~~~~~~~~~~~~~~Mgr. Petra Janouchová~~~~~~~~~~~~~}   
+
+
 
 \stopstandardmakeup
