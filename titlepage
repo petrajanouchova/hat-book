@@ -1,0 +1,22 @@
+\environment env_dis
+
+\startstandardmakeup[page=no, align=middle]
+\tfc\bf {\em Univerzita Karlova v Praze} \blank[2*big]
+\tfc\bf {\em Filozofická fakulta} \blank
+\tfa Ústav řeckých a latinských studií \blank
+\crlf 
+\tfa Dějiny antického starověku
+\vfill 
+\tfd\bf {\em Disertační práce}
+\crlf 
+\crlf \crlf \crlf \crlf \crlf 
+\tfb {\em Hellénizace antické Thrákie ve světle epigrafických nálezů}
+\vfill 
+\leftaligned{\tfb \em PhDr. Jan Souček, CSc.} \blank
+
+\leftaligned{\currentdate[year]} \rightaligned{\tfb \em Mgr. Petra Janouchová} 
+\blank
+\blank
+
+\page
+\stopstandardmakeup
