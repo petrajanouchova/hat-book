@@ -47,7 +47,11 @@
 
 \setupexternalfigures[location=default]
 
+\setupTABLE[c][each][align=flushleft,style={\tfx}]
+\setupTABLE[r][1][background=color,backgroundcolor=gray,style={\tfx\bf}]
+\setupTABLE[align=middle]
 
+\setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
 
 
 \stopenvironment
