@@ -103,21 +103,29 @@ were agreed at a meeting of classical scholars at \index{the} the University of 
 
 \placetable[table01]{Table with caption}
 {\bTABLE
-\bTR \bTD \getbuffer text 1 \eTD
-\bTD \getbuffer text 2 \eTD \bTD first \eTD \eTR
-\bTR \bTD \getbuffer text 3 \eTD
-\bTD \getbuffer text 4 \eTD \bTD second \eTD \eTR
+\bTR \bTD text 1 \eTD
+\bTD text 2 \eTD \bTD first \eTD \eTR
+\bTR \bTD text 3 \eTD
+\bTD text 4 \eTD \bTD second \eTD \eTR
 \eTABLE}
 
 \blank
 
 \placetable[table02]{Table with caption}
 {\bTABLE[width=.5\hsize]
-\bTR \bTD[nc=2] \getbuffer this is one of \index{the} the tables \eTD \eTR
-\bTR \bTD \getbuffer text 1 \eTD \bTD \getbuffer text 2 \eTD \eTR
-\bTR \bTD \getbuffer text 3 \eTD \bTD \getbuffer text 4 \eTD \eTR
+\bTR \bTD[nc=2] this is one of \index{the} the tables \eTD \eTR
+\bTR \bTD text 1 \eTD \bTD text 2 \eTD \eTR
+\bTR \bTD text 3 \eTD \bTD text 4 \eTD \eTR
 \eTABLE}
 
+\placetable[table03]{Why, oh god, why?}
+{
+\startCSV
+1,2,3
+a,b,c
+d,e,f
+\stopCSV
+}
 
 \subject{Bibliography}
 
