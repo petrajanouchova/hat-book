@@ -2,6 +2,7 @@
 \mainlanguage[cs]
 \enableregime[latin2]
 \enableregime[utf]
+
 \setupcolors[state=start] 
 \setupinteraction[state=start, color=blue, contrastcolor=blue, style={\tf}]
 
@@ -11,7 +12,7 @@
 \setupbodyfont[gentium,12pt]
 \setupwhitespace[none]
 
-\setuppagenumbering[alternative=singlesided, location={footer,inmargin}]
+
 
 \setupinterlinespace[big] %spacing 1.5
 %\setuplocalinterlinespace[line=2.8ex] spacing 1 \setupinterlinespace[line=4.2ex]
@@ -52,6 +53,60 @@
 \setupTABLE[align=middle]
 
 \setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
+
+
+
+\startsectionblockenvironment[frontpart]
+\setuppagenumbering[state=stop,location=]
+\setupsectionblock[frontpart][page=no]
+\stopsectionblockenvironment
+
+\startsectionblockenvironment[bodypart]
+\setuppagenumbering[alternative=singlesided, location={footer,inmargin}]
+\stopsectionblockenvironment
+
+\definefontfeature
+  [default]
+  [default]
+  [protrusion=quality,expansion=quality]
+
+
+%referencing crap
+\setupreferencing[autofile=yes]
+%http://tex.stackexchange.com/a/213388
+
+
+%database crap
+\usemodule[database]
+
+
+\defineseparatedlist[CSV]
+  [separator={,},
+   quotechar={"},
+   left=\bTD,right=\eTD,
+   first=\bTR,last=\eTR,
+   before=\bTABLE,after=\eTABLE]
+
+\defineseparatedlist[SplitCSVbody]
+  [separator={,},
+   quotechar={"},
+   left=\bTC,right=\eTC,
+   first=\bTR,last=\eTR,
+   before=\bTABLEbody,after=\eTABLEbody]   
+
+\defineseparatedlist[SplitCSVbodylines]
+  [separator={,},
+   quotechar={"},
+   left=\bTC,right=\eTC,
+   first=\bTR,last=\eTR
+   before={}, after={}]   
+
+\defineseparatedlist[SplitCSVhead]
+  [separator={,},
+   quotechar={"},
+   left=\bTH,right=\eTH,
+   first=\bTR,last=\eTR,
+   before=\bTABLEhead,after=\eTABLEhead]     
 
 
 \stopenvironment

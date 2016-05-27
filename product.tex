@@ -3,6 +3,12 @@
 \startproduct disProduct
 
 \component titlepage
+
+
+\setuppagenumbering[state=start,location={footer,inmargin}]
+
+
+
 %\component thankyou
 %\component abstract
 %\component toc
@@ -17,6 +23,8 @@
 %\component appendix01
 %\component appendix02
 %\component appendix03
-\component blah
+\startbodymatter
+	\component blah
+\stopbodymatter
 
 \stopproduct
