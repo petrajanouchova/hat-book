@@ -14,7 +14,7 @@
 
 
 
-\setupinterlinespace[big] %spacing 1.5
+\setupinterlinespace[line=4.2ex] %spacing 1.5
 %\setuplocalinterlinespace[line=2.8ex] spacing 1 \setupinterlinespace[line=4.2ex]
 
 ​\setupfootnotedefinition[headstyle=italic, location=singlesided, 9pt, line=2.8ex]
@@ -59,10 +59,15 @@
 \startsectionblockenvironment[frontpart]
 \setuppagenumbering[state=stop,location=]
 \setupsectionblock[frontpart][page=no]
+\setupinterlinespace[line=2.8ex]
 \stopsectionblockenvironment
 
 \startsectionblockenvironment[bodypart]
 \setuppagenumbering[alternative=singlesided, location={footer,inmargin}]
+\stopsectionblockenvironment
+
+\startsectionblockenvironment[appendix]
+\setupinterlinespace[line=2.8ex]
 \stopsectionblockenvironment
 
 \definefontfeature
@@ -72,7 +77,32 @@
 
 
 %referencing crap
-\setupreferencing[autofile=yes]
+\setupbibtex[database={biblio},sort=author]
+\setuppublications[alternative=apa]
+\unprotect
+\def\citet{\dosingleempty\doCiteT}
+\def\doCiteT[#1]#2{%
+  \iffirstargument
+    \cite[alternative=authoryear,extras={, #1}][#2]%
+  \else
+    \cite[alternative=authoryear][#2]%
+  \fi
+}
+
+\def\citep{\dosingleempty\doCiteP}
+\def\doCiteP[#1]#2{%
+  \iffirstargument
+    \cite[alternative=authoryears,extras={, #1}][#2]%
+  \else
+    \cite[alternative=authoryears][#2]%
+  \fi
+}
+
+\define[1]\citeyear{\cite[alternative=year,left={},right={}][#1]}
+\define[1]\citeauthor{\cite[alternative=author,left={},right={}][#1]}
+
+\protect
+
 %http://tex.stackexchange.com/a/213388
 
 

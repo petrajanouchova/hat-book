@@ -2,6 +2,8 @@
 
 \startproduct disProduct
 
+\setuppagenumbering[state=stop,location={none}]
+
 \component titlepage
 
 
@@ -26,5 +28,13 @@
 \startbodymatter
 	\component blah
 \stopbodymatter
+
+\startappendices
+
+	\completepublications[criterium=text]
+
+	\completeindex
+
+\stopappendices
 
 \stopproduct

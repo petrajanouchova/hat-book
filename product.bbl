@@ -1,0 +1,372 @@
+\setuppublicationlist[samplesize={ADGT01b},totalnumber=27]
+
+\startpublication[k=Ancona1996,t=article,
+a={{Ancona},{}},y=1996,
+n=1,s=ADG{\etalchar{+}}96]
+\artauthor[]{M.}[M.]{}{Ancona}
+\artauthor[]{G.}[G.]{}{Dodero}
+\artauthor[]{V.}[V.]{}{Gianuzzi}
+\artauthor[]{C.}[C.]{}{Fierro}
+\artauthor[]{V.}[V.]{}{Tine}
+\pubyear{1996}
+\arttitle{{Supporti informativi in tempo reale per scavi archeologici}}
+\keywords{Mobile App}
+\stoppublication
+
+\startpublication[k=Ancona1998,t=article,
+a={{Ancona},{}},y=1998,
+n=2,s=ADG{\etalchar{+}}98]
+\artauthor[]{M.}[M.]{}{Ancona}
+\artauthor[]{G.}[G.]{}{Dodero}
+\artauthor[]{V.}[V.]{}{Gianuzzi}
+\artauthor[]{C.}[C.]{}{Fierro}
+\artauthor[]{V.}[V.]{}{Tine}
+\artauthor[]{A.}[A.]{}{Traverso}
+\pubyear{1998}
+\arttitle{{Mobile computing for real time support in archaeological
+  excavations}}
+\keywords{Mobile App}
+\stoppublication
+
+\startpublication[k=Ancona2001,t=article,
+a={{Ancona},{}},y=2001a,
+n=3,s=ADG{\etalchar{+}}01a]
+\artauthor[]{M.}[M.]{}{Ancona}
+\artauthor[]{G.}[G.]{}{Dodero}
+\artauthor[]{V.}[V.]{}{Gianuzzi}
+\artauthor[]{S.}[S.]{}{Locati}
+\artauthor[]{A.}[A.]{}{Romagnoli}
+\pubyear{2001\maybeyear{a}}
+\arttitle{{An Integrated Environment for Scientific Data Entry and Management
+  on mobile systems}}
+\journal{Proceedings of 1 st Software Engineering Workshop, JSCC, Punta Arenas,
+  Nov}
+\keywords{Mobile App,interfacing,man-machine interfacing,mobile computing,multi
+  modal input}
+\stoppublication
+
+\startpublication[k=Ancona2000,t=article,
+a={{Ancona},{}},y=2000,
+n=5,s=ADGT00]
+\artauthor[]{M.}[M.]{}{Ancona}
+\artauthor[]{G.}[G.]{}{Dodero}
+\artauthor[]{V.}[V.]{}{Gianuzzi}
+\artauthor[]{A.}[A.]{}{Traverso}
+\pubyear{2000}
+\arttitle{{The Ramses experience in archaeological research}}
+\keywords{Mobile App}
+\stoppublication
+
+\startpublication[k=Ancona2001a,t=article,
+a={{Ancona},{}},y=2001b,
+n=4,s=ADGT01b]
+\artauthor[]{M.}[M.]{}{Ancona}
+\artauthor[]{G.}[G.]{}{Dodero}
+\artauthor[]{V.}[V.]{}{Gianuzzi}
+\artauthor[]{A.}[A.]{}{Traverso}
+\pubyear{2001\maybeyear{b}}
+\arttitle{{Wireless Technologies for Archaeology: Two Experiences}}
+\keywords{Mobile App}
+\stoppublication
+
+\startpublication[k=Ancona1999,t=article,
+a={{Ancona},{}},y=1999,
+n=6,s=ADMT99]
+\artauthor[]{M.}[M.]{}{Ancona}
+\artauthor[]{G.}[G.]{}{Dodero}
+\artauthor[]{M.}[M.]{}{Mongiardino}
+\artauthor[]{A.}[A.]{}{Traverso}
+\pubyear{1999}
+\arttitle{{Taking digital notes in the field: the Archeo toolset}}
+\keywords{Mobile App}
+\stoppublication
+
+\startpublication[k=Ballsun-Stanton,t=article,
+a={{Ballsun-Stanton},{}},y=2012,
+n=7,s=BSSRC12]
+\artauthor[]{Brian}[B.]{}{Ballsun-Stanton}
+\artauthor[]{Adela}[A.]{}{Sobotkova}
+\artauthor[]{Shawn}[S.]{}{Ross}
+\artauthor[]{Penny}[P.]{}{Crook}
+\pubyear{2012}
+\arttitle{{Open Source Applications in Archaeology}}
+\keywords{Mobile App}
+\stoppublication
+
+\startpublication[k=Becker2008,t=book,
+a={{Becker},{Kroll}},y=2008,
+n=8,s=BK08]
+\author[]{Cornelia}[C.]{}{Becker}
+\author[]{Helmut}[H.]{}{Kroll}
+\pubyear{2008}
+\title{{Das pr{\"{a}}historische Olynth: Ernarrung und Rohstoffutzung im
+  Wandel}}
+\city{Rahden}
+\pubname{Verlag Marie Leidorf GmbH}
+\keywords{from Bogdan}
+\stoppublication
+
+\startpublication[k=Bowlt,t=article,
+a={{Bowlt}},y=,
+n=9,s=Bow]
+\artauthor[]{Colin}[C.]{}{Bowlt}
+\arttitle{{Schiffer: Formation Processe of the Archaeological Record - review}}
+\issn{1098-6596}
+\keywords{icle}
+\stoppublication
+
+\startpublication[k=Coppola2005,t=article,
+a={{Coppola},{}},y=2005,
+n=10,s=CMG{\etalchar{+}}05]
+\artauthor[]{Paolo}[P.]{}{Coppola}
+\artauthor[]{Vincenzo~Della}[V.~D.]{}{Mea}
+\artauthor[]{Luca~Di}[L.~D.]{}{Gaspero}
+\artauthor[]{Stefano}[S.]{}{Mizzaro}
+\artauthor[]{Andrea}[A.]{}{Selva}
+\artauthor[]{Luca}[L.]{}{Vassena}
+\artauthor[]{Paolo~Zandegiacomo}[P.~Z.]{}{Rizi{\`{o}}}
+\pubyear{2005}
+\arttitle{{MoBe : A Framework for Context-Aware Mobile Applications The overall
+  architecture of MoBe}}
+\keywords{Mobile App,conference presentation}
+\stoppublication
+
+\startpublication[k=Gellner1983,t=book,
+a={{Gellner}},y=1983,
+u={http://www.nationalismproject.org/books/a{\_}b.htm},
+n=11,s=Gel83]
+\author[]{Ernest}[E.]{}{Gellner}
+\pubyear{1983}
+\title{{Nations and Nationalism}}
+\city{Ithaca}
+\pubname{Cornell University Press}
+\biburl{http://www.nationalismproject.org/books/a{\_}b.htm}
+\stoppublication
+
+\startpublication[k=Grønli2010,t=article,
+a={{Gr{\o}nli},{}},y=2010,o={10.1145/1839294.1839348},
+u={http://portal.acm.org/citation.cfm?doid=1839294.1839348},
+n=12,s=GHG10]
+\artauthor[]{Tor-Morten}[T.-M.]{}{Gr{\o}nli}
+\artauthor[]{Jarle}[J.]{}{Hansen}
+\artauthor[]{Gheorghita}[G.]{}{Ghinea}
+\pubyear{2010}
+\arttitle{{Android vs Windows Mobile vs Java ME: A comparative Study of Mobile
+  Development Environments}}
+\journal{Petra}
+\doi{10.1145/1839294.1839348}
+\keywords{Mobile App,all part,android,environment,hard copies,java me,mobile
+  development,permission make digital,programming languages,windows
+  mobile,work}
+\abstract{In this paper we look at three mobile development environments:
+  Windows Mobile, Java ME and Android. Through platform comparison, the
+  different environments are examined closely and strengths and weaknesses are
+  brought to life. In all three environments example applications are written
+  to compare the environments in action on respective devices. Environment
+  specific deployment files are created to illustrate amount of boilerplate
+  code and overhead during deployment. Different key areas such as
+  implementation aspects, performance aspects and quality assurance are
+  compared to give an in depth overview of the status of the different
+  platforms. Our results show that although the three environments are similar
+  in some aspects they still represent three distinctive fields each with their
+  respective characteristics. Through our code examples and platform comparison
+  we come to the conclusion that the Windows Mobile and Android platform
+  provides a better development environment, whereas Java ME still struggles
+  with poor emulator support and incompatible implementations. The main
+  features they have in common are also seen in trends directly visible in the
+  programming languages such as unit testing, language features and end user
+  distribution strategies. Big differences are highlighted when inspecting
+  community environments, hardware abilities and platform maturity. This will
+  have large influence on the choice of development platform for creating novel
+  assistive environment applications.}
+\biburl{http://portal.acm.org/citation.cfm?doid=1839294.1839348}
+\stoppublication
+
+\startpublication[k=Handberg2012,t=incollection,
+a={{Handberg}},y=2012,
+n=13,s=Han12]
+\artauthor[]{S{\o}ren}[S.]{}{Handberg}
+\pubyear{2012}
+\arttitle{{Panskoe 2B Finds catalogue}}
+\keywords{BSS}
+\stoppublication
+
+\startpublication[k=Iliev2007,t=incollection,
+a={{Iliev}},y=2007,
+n=14,s=Ili07]
+\artauthor[]{Jordan}[J.]{}{Iliev}
+\pubyear{2007}
+\arttitle{{Obrazovanieto v drevna Trakia}}
+\title{Nauka, Obrazovanieto i vremeto kato grizha, Smolyan 30 Nov - 1 Dec 2007}
+\pages{122--128}
+\pages{122--128}
+\keywords{Academia,Thrace,education,literacy}
+\stoppublication
+
+\startpublication[k=Iliev2008,t=book,
+a={{Iliev}},y=2008,
+n=15,s=Ili08]
+\author[]{Jordan}[J.]{}{Iliev}
+\pubyear{2008}
+\title{{Gradskite institucii v Gorna i Dolna Mizia (1-3 v.)}}
+\city{Sofia}
+\keywords{Academia,Thrace,diploma thesis,political organisation}
+\stoppublication
+
+\startpublication[k=Iliev2009,t=incollection,
+a={{Iliev}},y=2009,
+n=18,s=Ili09]
+\artauthor[]{Jordan}[J.]{}{Iliev}
+\pubyear{2009}
+\arttitle{{Naselenieto na Rodopite prez antichnostta}}
+\title{Rodopite i Covekat: Smolyan 30-31 oktomvri 2008}
+\city{Smolyan}
+\pages{65--71}
+\pages{65--71}
+\keywords{Rhodopes,Thrace,inhabitants}
+\stoppublication
+
+\startpublication[k=Iliev2011,t=article,
+a={{Iliev}},y=2011,
+n=16,s=Ili11]
+\artauthor[]{Jordan}[J.]{}{Iliev}
+\pubyear{2011}
+\arttitle{{Epigraphic Information about the Institutions of the Roman Colonies
+  in Moesia Superior and Moesia Inferior (1st – 3rd Centuries AD)}}
+\journal{Dni na naukata, Tom 1}
+\volume{1}
+\pages{41--56}
+\keywords{Thrace,institutions,political organisation,politics}
+\stoppublication
+
+\startpublication[k=Iliev2012,t=book,
+a={{Iliev}},y=2012,
+n=17,s=Ili12]
+\author[]{Jordan}[J.]{}{Iliev}
+\pubyear{2012}
+\title{{Rodopite v istoriata na drevna Trakia}}
+\city{Sofia}
+\keywords{Rhodopes,Thrace,dissertation}
+\stoppublication
+
+\startpublication[k=Johnson2001,t=book,
+a={{Johnson},{}},y=2001,
+n=19,s=JJR{\etalchar{+}}01]
+\author[]{Chris}[C.]{}{Johnson}
+\author[]{Peter}[P.]{}{Johnson}
+\author[]{Tom}[T.]{}{Rodden}
+\author[]{Nigel}[N.]{}{Davies}
+\author[]{Mikael}[M.]{}{Goldstein}
+\author[]{Gunilla}[G.]{}{Alsio}
+\author[]{Stephen}[S.]{}{Brewster}
+\author[]{Helen}[H.]{}{Petrie}
+\author[]{Thomas}[T.]{}{Strothotte}
+\author[]{Jason}[J.]{}{Pascoe}
+\author[]{Nick}[N.]{}{Ryan}
+\pubyear{2001}
+\title{{First Workshop on Human Computer Interaction with Mobile Devices}}
+\keywords{Mobile App}
+\stoppublication
+
+\startpublication[k=Nieling2010,t=book,
+a={{Nieling},{Rehm}},y=2010,
+n=20,s=NR10]
+\author[]{Jens}[J.]{}{Nieling}
+\author[]{Ellen}[E.]{}{Rehm}
+\pubyear{2010}
+\title{{Achaemenid Impact in the Black Sea Communication of Power}}
+\city{Aarhus}
+\pubname{Aarhus University Press}
+\keywords{BSS}
+\stoppublication
+
+\startpublication[k=Nomad2011,t=article,
+a={{Nomad}},y=2011,
+u={http://humanitarian-nomad.org/?page{\_}id=533},
+n=21,s=Nom11]
+\artauthor[]{Consortium}[C.]{}{Nomad}
+\pubyear{2011}
+\arttitle{{Mobile Data Collection in Humanitarian Context (NOMAD)}}
+\pages{10}
+\keywords{Mobile App}
+\abstract{Mobile Data Collection in Humanitarian Context (NOMAD): Analyses of
+  existing mobile data collection against the requirement of organization
+  working in the humanitarian context}
+\biburl{http://humanitarian-nomad.org/?page{\_}id=533}
+\stoppublication
+
+\startpublication[k=Wopershall,t=article,
+a={{Wopershall},{Willnow}},y=,
+n=22,s=WW]
+\artauthor[]{Brian}[B.]{}{Wopershall}
+\artauthor[]{Lindle}[L.]{}{Willnow}
+\arttitle{{Lessons Learned Developing a Complex Geodatabase While ArcInfo 8.x
+  Evolved}}
+\keywords{Mobile App}
+\stoppublication
+
+\startpublication[k=Yordanov,t=article,
+a={{Yordanov}},y=,
+n=26,s=Yor]
+\artauthor[]{Stephan}[S.]{}{Yordanov}
+\arttitle{{Zalmoksis, mitologichniyat katabazis i instityciayata na
+  carya-zhrets i Getite}}
+\keywords{Academia,Thrace,Zalmoxis}
+\stoppublication
+
+\startpublication[k=Yordanov2000,t=book,
+a={{Yordanov}},y=2000,
+n=23,s=Yor00]
+\author[]{Stephan}[S.]{}{Yordanov}
+\pubyear{2000}
+\title{{Trakiiskiyat Voin}}
+\city{Veliko Tarnovo}
+\pubname{Faber Publisher}
+\keywords{Academia,Thrace}
+\stoppublication
+
+\startpublication[k=Yordanov2001,t=incollection,
+a={{Yordanov}},y=2001,
+n=24,s=Yor01]
+\artauthor[]{Stephan}[S.]{}{Yordanov}
+\pubyear{2001}
+\arttitle{{"Teres, prav mogasht bazilevs na Odrisite..." (kam problema za
+  formiraneto na odriskoto carstvo)}}
+\title{Палеобалканистика и
+  старобългаристика. Втори есенни
+  международни четения ”Професор Иван
+  Гълъбов“}
+\city{Veliko Tarnovo}
+\pages{565--578}
+\pages{565--578}
+\keywords{Academia,Thrace}
+\stoppublication
+
+\startpublication[k=Yordanov2002,t=incollection,
+a={{Yordanov}},y=2002,
+n=27,s=Yor02]
+\artauthor[]{Stephan}[S.]{}{Yordanov}
+\pubyear{2002}
+\arttitle{{Le royaume des Odryses au nord de l'H{\`{e}}mus – probl{\`{e}}mes
+  de l'histoire politique et de la chronologie}}
+\title{Proceedings of the Eigth International Congress of Thracology. Thrace
+  and the Aegean. Sofia – Yambol, 25 – 29 September 2000}
+\volume{II}
+\pages{555--561}
+\pages{555--561}
+\keywords{Academia,Thrace}
+\stoppublication
+
+\startpublication[k=Yordanov2014,t=incollection,
+a={{Yordanov}},y=2014,
+n=25,s=Yor14]
+\artauthor[]{Stephan}[S.]{}{Yordanov}
+\pubyear{2014}
+\arttitle{{Krepostite na Chemus, vastaniata ot 21 i 26 g. ot n. e. i
+  Tkakiiskoto carstvo. Belezki varchu politicheskata istoria na drevaa Trakia
+  ot perioda na rimskata ekspanzia na Balkanite}}
+\title{Staroplaninskiyat region i istoriata na Balgarskite zemi. 203 oktomvri
+  2014, Garbrovo}
+\keywords{Academi,Thrace}
+\stoppublication
+
