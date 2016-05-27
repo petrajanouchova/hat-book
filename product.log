@@ -1,0 +1,146 @@
+open source     > 1 > 1 > /opt/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv
+
+ConTeXt  ver: 2016.05.19 13:43 MKIV current  fmt: 2016.5.20  int: english/english
+
+system          > 'cont-new.mkiv' loaded
+open source     > 2 > 2 > /opt/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv
+close source    > 2 > 2 > /opt/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv
+system          > files > jobname 'product', input './product', result 'product'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > 2 > 3 > /home/brian/hat-book/product.tex
+open source     > 3 > 4 > env_dis.tex
+regimes         > loading > vector '8859-2' is loaded
+colors          > 'rgb' color space is supported
+colors          > 'cmyk' color space is supported
+open source     > 4 > 5 > /opt/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-gentium.mkiv
+close source    > 4 > 5 > /opt/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-gentium.mkiv
+fonts           > preloading modern-designsize (math)
+fonts           > typescripts > unknown library 'modern-designsize'
+fonts           > 'fallback modern-designsize mm 12pt' is loaded
+fonts           > preloading modern-designsize (mono)
+fonts           > 'fallback modern-designsize tt 12pt' is loaded
+setup           > error in line 20, namespace 'notation', instance 'footnote', key '9pt'
+resolvers       > modules > 'database' is loaded
+open source     > 4 > 6 > /opt/context/tex/texmf-context/tex/context/modules/mkiv/m-database.mkiv
+resolvers       > lua > loading file '/opt/context/tex/texmf-context/tex/context/modules/mkiv/m-database.lua' succeeded
+close source    > 4 > 6 > /opt/context/tex/texmf-context/tex/context/modules/mkiv/m-database.mkiv
+close source    > 3 > 6 > env_dis.tex
+open source     > 3 > 7 > titlepage.tex
+structures      > begin of sectionblock 'frontpart'
+backend         > xmp > using file '/opt/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1
+structures      > end of sectionblock 'frontpart'
+close source    > 3 > 7 > titlepage.tex
+pages           > flushing realpage 2, userpage 2
+structures      > begin of sectionblock 'bodypart'
+open source     > 3 > 8 > blah.tex
+structure       > sectioning > chapter @ level 2 : 0.1 -> About \index {the} the project
+structure       > sectioning > section @ level 3 : 0.1.1 -> Step 1: planning, 29 April
+structure       > sectioning > subsection @ level 4 : 0.1.1.1 -> Technical planning
+pages           > flushing realpage 3, userpage 3
+structure       > sectioning > subsection @ level 4 : 0.1.1.2 -> Instructions for \index {the} the final product
+structure       > sectioning > section @ level 3 : 0.1.2 -> Software preparation, 30 April
+structure       > sectioning > subsection @ level 4 : 0.1.2.1 -> Ubuntu 14.04 install
+structure       > sectioning > section @ level 3 : 0.1.3 -> Text with figures
+pages           > flushing realpage 4, userpage 4
+floatblocks     > '1' placed
+floatblocks     > '2' placed
+floatblocks     > 1 saved
+pages           > flushing realpage 5, userpage 5
+floatblocks     > 1 moved
+floatblocks     > '3' moved
+structure       > sectioning > section @ level 3 : 0.1.4 -> Tables
+floatblocks     > '4' placed
+floatblocks     > '5' placed
+floatblocks     > '6' placed
+structure       > sectioning > subject @ level 3 : 0.1.4 -> Bibliography
+pages           > flushing realpage 6, userpage 6
+pages           > flushing realpage 7, userpage 7
+structure       > sectioning > chapter @ level 2 : 0.2 -> \headtext {index}
+pages           > flushing realpage 8, userpage 8
+close source    > 3 > 8 > blah.tex
+structures      > end of sectionblock 'bodypart'
+close source    > 2 > 8 > /home/brian/hat-book/product.tex
+close source    > 1 > 8 > /opt/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv
+
+system          > structure > start used structure
+
+used structure  > text: product
+used structure  >   environment: env_dis
+used structure  >   product: disProduct
+
+system          > structure > stop used structure
+
+
+system          > files > start used files
+
+used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/opt/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+used file       >    2: filename=publ-imp-default.lua filetype=scripts foundname=/opt/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+used file       >    3: filename=cont-new.mkiv filetype=tex foundname=/opt/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+used file       >    4: filename=lang-us.lua filetype=scripts foundname=/opt/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+used file       >    5: filename=/home/brian/hat-book/product foundname=/home/brian/hat-book/product.tex usedmethod=qualified
+used file       >    6: filename=env_dis.tex foundname=env_dis.tex usedmethod=direct
+used file       >    7: filename=lang-cs.lua filetype=scripts foundname=/opt/context/tex/texmf-context/tex/context/patterns/mkiv/lang-cs.lua usedmethod=database
+used file       >    8: filename=regi-8859-2.lua filetype=scripts foundname=/opt/context/tex/texmf-context/tex/context/base/mkiv/regi-8859-2.lua usedmethod=database
+used file       >    9: filename=type-imp-gentium.mkiv filetype=tex foundname=/opt/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-gentium.mkiv usedmethod=database
+used file       >   10: filename=GentiumPlus-R filetype=ttf format=ttf foundname=/opt/context/tex/texmf/fonts/truetype/public/gentium-tug/GentiumPlus-R.ttf usedmethod=database
+used file       >   11: filename=m-database.mkiv filetype=tex foundname=/opt/context/tex/texmf-context/tex/context/modules/mkiv/m-database.mkiv usedmethod=database
+used file       >   12: filename=m-database.lua filetype=tex format=tex foundname=/opt/context/tex/texmf-context/tex/context/modules/mkiv/m-database.lua usedmethod=database
+used file       >   13: filename=titlepage.tex foundname=titlepage.tex usedmethod=direct
+used file       >   14: filename=GenBasB filetype=ttf format=ttf foundname=/opt/context/tex/texmf/fonts/truetype/public/gentium-tug/GenBasB.ttf usedmethod=database
+used file       >   15: filename=GenBasBI filetype=ttf format=ttf foundname=/opt/context/tex/texmf/fonts/truetype/public/gentium-tug/GenBasBI.ttf usedmethod=database
+used file       >   16: filename=GentiumPlus-I filetype=ttf format=ttf foundname=/opt/context/tex/texmf/fonts/truetype/public/gentium-tug/GentiumPlus-I.ttf usedmethod=database
+used file       >   17: filename=lpdf-pdx.xml filetype=tex foundname=/opt/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+used file       >   18: filename=blah.tex foundname=blah.tex usedmethod=direct
+
+system          > files > stop used files
+
+
+system          > options > start commandline options
+
+used option     > currentrun="2"
+used option     > fulljobname="./product"
+used option     > input="./product"
+used option     > kindofrun="2"
+used option     > maxnofruns="9"
+used option     > no-parse-first-line="true"
+
+system          > options > stop commandline options
+
+system          > options > start commandline files
+
+used file       >    1: ./product
+
+system          > options > stop commandline files
+
+
+mkiv lua stats  > used config file: selfautoparent:/texmf/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: /opt/context/tex/texmf-cache/luatex-cache/context/5fe67e0bfe781ce0dde776fb1556f32e
+mkiv lua stats  > resource resolver: loadtime 0.009 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 18 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 387 modules (0.219 sec), 82 tables (0.009 sec), 469 chunks (0.228 sec)
+mkiv lua stats  > traced context: maxstack: 1197, freed: 20, unreachable: 1177
+mkiv lua stats  > cleaned up reserved nodes: 53 nodes, 9 lists of 447
+mkiv lua stats  > node memory usage: 36 hlist, 11 vlist, 7 rule, 5 boundary, 3 disc, 4 local_par, 11 dir, 326 glue, 12 kern, 15 penalty, 73 glyph, 623 attribute, 38 glue_spec, 147 attribute_list, 2 temp, 2 late_lua, 2 user_defined
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 1093 calls
+mkiv lua stats  > h-node processing time: 0.067 seconds including kernel
+mkiv lua stats  > attribute processing time: 0.011 seconds front- and backend
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.011 seconds saving, 0.003 seconds loading
+mkiv lua stats  > callbacks: 2490 direct, 739 indirect, 3229 total
+mkiv lua stats  > randomizer: resumed with value 0.4688406002097
+mkiv lua stats  > positions: 68 collected, 68 regulars, 0 regions, 0 unresolved regions
+mkiv lua stats  > loaded tex modules: 1 requested, all found (*-database)
+mkiv lua stats  > loaded patterns: cs::16 en::2, load time: 0.000
+mkiv lua stats  > interactive elements: 17 references, 175 destinations
+mkiv lua stats  > result saved in file: product.pdf, compresslevel 3, objectcompresslevel 3
+mkiv lua stats  > loaded fonts: 4 files: genbasb.ttf, genbasbi.ttf, gentiumplus-i.ttf, gentiumplus-r.ttf
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 23 instances, 19 shared in backend, 2 common vectors, 17 common hashes, load time 0.454 seconds 
+mkiv lua stats  > graphics processing time: 0.046 seconds including tex, 3 processed images, 1 unique asked, 0 bad names
+mkiv lua stats  > pdf annotations: 17 links (17 unique), 0 special
+mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: texmf-linux-64
+mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016)
+mkiv lua stats  > control sequences: 43671 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 90 MB (ctx: 89 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.147 seconds, 8 processed pages, 8 shipped pages, 6.975 pages/second
+
